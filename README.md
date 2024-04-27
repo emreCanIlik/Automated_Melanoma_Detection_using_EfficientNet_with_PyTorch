@@ -7,6 +7,7 @@ This project implements transfer learning with EfficientNet in PyTorch to detect
 
 ## Dataset
 This meticulously curated dataset of 13,900 images serves as a valuable asset in propelling advancements in both dermatology and computer-aided diagnostics. Delve into the intricate domain of melanoma, where each pixel bears the promise of reshaping early detection methodologies.
+
 <img width="1163" alt="image" src="https://github.com/emreCanIlik/Automated_Melanoma_Detection_using_EfficientNet_with_PyTorch/assets/118285895/645d6c27-8087-4bd8-993b-fa6221f62bca">
 
 
