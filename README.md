@@ -1,5 +1,7 @@
 <img width="993" alt="image" src="https://github.com/emreCanIlik/Automated_Melanoma_Detection_using_EfficientNet_with_PyTorch/assets/118285895/0a042814-b099-41ba-a425-ef4978fa2aee">
 
+<img width="1157" alt="image" src="https://github.com/emreCanIlik/Automated_Melanoma_Detection_using_EfficientNet_with_PyTorch/assets/118285895/2b1ce05e-9daa-4fab-90d1-4d110eaddb2e">
+
 # Melanoma Detection using Transfer Learning with EfficientNet in PyTorch
 
 ## Overview
