@@ -25,7 +25,7 @@ The model achieved an accuracy of 86% on the test dataset, demonstrating its eff
 ## References
 - https://www.kaggle.com/datasets/bhaveshmittal/melanoma-cancer-dataset/data
 - Tan, M., & Le, Q. (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. Proceedings of the 36th International Conference on Machine Learning, PMLR 97:6105-6114.
-- Gonçalo Marques, Deevyankar Agarwal, Isabel de la Torre Díez,Automated medical diagnosis of COVID-19 through EfficientNet convolutional neural network, Applied Soft Computing,Volume 96, 2020, 106691,ISSN 1568-4946,https://doi.org/10.1016/j.asoc.2020.106691.
+- Marques et al. (2020),Automated medical diagnosis of COVID-19 through EfficientNet convolutional neural network, Applied Soft Computing,Volume 96, 2020, 106691,ISSN 1568-4946,https://doi.org/10.1016/j.asoc.2020.106691.
 - https://github.com/mrdbourke/pytorch-deep-learning
   
 ## Contributing
