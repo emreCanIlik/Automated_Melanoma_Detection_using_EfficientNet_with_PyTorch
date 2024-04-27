@@ -32,7 +32,3 @@ The model achieved an accuracy of 86% on the test dataset, demonstrating its eff
   
 ## Contributing
 Contributions are welcome! 
-
-
-## License
-This project is licensed under the MIT License.
